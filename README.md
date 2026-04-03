@@ -71,7 +71,7 @@ SIMS/
 5. Run the program:
 
 ```bash
-python sims.py
+python main.py
 ```
 
 ---
